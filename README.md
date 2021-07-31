@@ -2,7 +2,7 @@
 
 Refractor e-commerce platform from using global state React's Contect API to Redux.
 
-### Github : 
+### Github : https://andreas3093.github.io/Shop-Redux-Store/
 ### Website :
 
 
